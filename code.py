@@ -1,1 +1,4 @@
-print ("lakshmi + entire course")
+# code.py
+print("lakshmi + entire course")
+
+# Output:  lakshmi + entire course
